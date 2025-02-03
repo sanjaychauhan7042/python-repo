@@ -9,3 +9,9 @@ b = 9
 d = a + b
 
 print(d)
+
+a = 10
+b = 2
+e = a/b
+
+print(e)
